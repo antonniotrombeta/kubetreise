@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Kubet Reise | Ku bet Casino - Tập đoàn cá cược số 1 châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet <https://kubet.reise/>`_ - tập đoàn cá cược số 1 châu Á, được thành lập từ năm 2008 và đã thu hút hơn 10 triệu người chơi được yêu thích hiện nay. Kubet.reise là cổng đăng nhập Kubet chính thức!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Kubet có nhiều trò chơi cá cược đỉnh cao, thu hút hàng triệu người trơi trên khắp Việt Nam. Giao diện, trải nghiệm game và tỷ lệ kèo đều được xếp vào hàng tuyệt phẩm. Tham gia chơi Ku bet ngay để tận hưởng thế giới cá cược không giới hạn!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 105/4D Đ. HT35, Hiệp Thành, Quận 12, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0922332057. 
 
-.. toctree::
+Email: cskh@kubet.reise. 
 
-   usage
-   api
+Website: https://kubet.reise/
+
+#kubet #nhacaikubet #trangchukubet #kubetreise #kubetcasino #linkkubet
